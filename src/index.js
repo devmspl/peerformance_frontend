@@ -9,7 +9,7 @@ import { Provider } from 'react-redux';
 import store from './store/index';
 
 //axios.defaults.baseURL = 'http://demo.mypeerformance.com:4000/';
-axios.defaults.baseURL = 'http://localhost:4000';
+axios.defaults.baseURL = 'http://93.188.167.68:4000';
 // axios.defaults.baseURL = 'http://192.168.1.108:4000';
 
 ReactDOM.render(
